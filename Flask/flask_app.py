@@ -11,7 +11,7 @@ english_bot = ChatBot("Chatterbot", storage_adapter="chatterbot.storage.SQLStora
         },
         {
             'import_path': 'chatterbot.logic.LowConfidenceAdapter',
-            'threshold': 0.65,
+            'threshold': 0.3,
             'default_response': 'I am sorry, but I do not understand.'
         }
     ])
