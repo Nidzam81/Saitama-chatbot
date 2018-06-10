@@ -5,27 +5,26 @@ from chatterbot.trainers import ListTrainer
 
 app = Flask(__name__)
 
-english_bot = ('Saitama',logic_adapters=[
+english_bot = ChatBot("Chatterbot", storage_adapter="chatterbot.storage.SQLStorageAdapter",    logic_adapters=[
         {
-            "import_path": "chatterbot.logic.BestMatch",
-            "statement_comparison_function": "chatterbot.comparisons.levenshtein_distance",
-            "response_selection_method": "chatterbot.response_selection.get_first_response"
-        },        {
+            'import_path': 'chatterbot.logic.BestMatch'
+        },
+        {
             'import_path': 'chatterbot.logic.LowConfidenceAdapter',
             'threshold': 0.65,
             'default_response': 'I am sorry, but I do not understand.'
         }
     ])
+
 english_bot.set_trainer(ChatterBotCorpusTrainer)
 english_bot.train("chatterbot.corpus.english")
-conv=open('Helpdesk example.txt','r').readlines()
-bot.set_trainer(ListTrainer)
-bot.train(conv)
-
+conv=open('/home/ijam1301/saitama/Helpdesk example.txt','r').readlines()
+english_bot.set_trainer(ListTrainer)
+english_bot.train(conv)
 
 @app.route("/")
 def home():
-    return render_template("speech.html")
+    return render_template("index1.html")
 
 @app.route("/get")
 def get_bot_response():
