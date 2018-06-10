@@ -1,0 +1,54 @@
+hi
+Hello, my name is Saitama, and welcome to Lazada! How may I assist you?
+hello
+Hello, my name is Saitam, and welcome to Lazada! How may I assist you?
+I received damaged item. What should I do.
+To ensure immediate return, please wrap the product in the original package, complete with accessories and purchase invoices. You may click <a href="https://www.lazada.com.my/helpcenter/returns/?spm=a2o42.helpcenter.0.0.48ad4a40NKl5IK>here</a> to find out more about returns related matter, alternatively you may contact Lazada Customer Care for further assistance.
+I received damaged/ defective item, what should I do?
+To ensure immediate return, please wrap the product in the original package, complete with accessories and purchase invoices. You may click <a href="https://www.lazada.com.my/helpcenter/returns/?spm=a2o42.helpcenter.0.0.48ad4a40NKl5IK>here</a> to find out more about returns related matter, alternatively you may contact Lazada Customer Care for further assistance.
+For which reasons can I return an item?
+You may want to return your item due to any of the following reasons:<a href="https://lazada-cs--c.ap5.content.force.com/servlet/servlet.ImageServer?id=0157F0000002Lug&oid=00D7F000000xllz">here</a>
+What reasons can I return an item?
+You may want to return your item due to any of the following reasons:<a href="https://lazada-cs--c.ap5.content.force.com/servlet/servlet.ImageServer?id=0157F0000002Lug&oid=00D7F000000xllz">here</a>
+How do I return an item?
+To return an item, please follow this steps:<br />Step 1:  Check the Validity of Returns Policy<br />Step 2: Fill in Online Returns Form & Print Shipping Label<br />Step 3: Pack the Item(s) & attach Shipping Label on the Box<br />Step 4: Drop-Off at our Courier Partner<br />Step 5: The Refund Process will starts once your item arrived to Lazada Warehouse.<br /> Fill up the form <a href="https://member.lazada.com.my/user/login?lzdmflt=p&redirect=http%3A%2F%2Fmy.lazada.com.my%2Fcustomer%2Forder%2Findex%2F%3Fspm%3Da2o42.helpcenter.0.0.24304a40CvxwOq">here</a>
+How long is the quality evaluation process?
+Quality evaluation process may take up to 2 - 3 business days.
+How do I request Online Return Form?
+To request Online Return Form, please refer <a href="https://www.lazada.com.my/helpcenter/how-do-i-request-online-return-form.html?spm=a2o42.helpcenter.0.0.56184a40BXuK3r">here</a>
+How soon will I receive my refund? When will receive my refund?
+Refund can be processed in case of return or cancellation.<br /> For your convenience, we offer different refund options for you to choose from, basing on your payment method at the time of purchase.<br />We will update you via email and SMS once your refund has been initiated. You will be able to see the credited amount on your statement.If the refund does not arrive after the next two month's statements, please contact your issuing bank or party directly for further assistance.<br /><br /><img src="https://lazada-cs--c.ap5.content.force.com/servlet/servlet.ImageServer?id=0157F0000002v42&oid=00D7F000000xllz" alt="refund" width="500" height="333">
+How do I track my return status?
+You can track return status using the tracking number provided to you by our logistics partner or via our <a href="https://www.lazada.com.my/order-tracking/?spm=a2o42.helpcenter.0.0.4ef14a40UYbCvU">Order Tracking tool.</a>
+Will I receive any order confirmation after placing an order?
+An order confirmation with the order summary will be sent to you via Email and SMS right after you have placed your order with a successful transaction.
+Can I cancel my booking?
+Yes, you can. However, cancellation is only allowed if the appointment had not been confirmed. You may contact Lazada to cancel the order.
+How do I track my order status?
+You can track your order online 24 hours/7 days by following these steps: <br />1 Go to www.lazada.com.my/order-tracking<br />2 Enter your order number and email address<br />3 Press "Check now" to process<br />
+How do I place an order? How to make an order?How to order?
+To order, follow below simple steps:<br /><img src="https://lazada-cs--c.ap5.content.force.com/servlet/servlet.ImageServer?id=0157F0000002PLy&oid=00D7F000000xllz" alt="Order" width="500" height="333">
+How to order?
+To order, follow below simple steps:<br /><img src="https://lazada-cs--c.ap5.content.force.com/servlet/servlet.ImageServer?id=0157F0000002PLy&oid=00D7F000000xllz" alt="Order" width="500" height="333">
+How can I change delivery address/ phone number/ recipient for my existing order?
+Changes in delivery address / phone number / recipient of the item is not allowed after the order has been successfully made. This is one of the precaution steps to avoid fraud attempt. Kindly ensure all the information is correct prior placing an order.
+What are the Terms and Conditions for Voucher Usage?
+The following terms and conditions (T&Cs) apply to your use and redemption of promotional vouchers or voucher codes, where such vouchers are offered for no consideration click <a href="https://www.lazada.com.my/voucher-terms-of-use/?spm=a2o42.helpcenter.0.0.47786b7aipLPnL">here</a>.
+How can I know about the promotions/ sales Lazada offers?
+You can subscribe to our Newsletter to hear about all the latest promotions, get updates on the hottest new arrivals and enjoy exclusive voucher offers. During your first sign up with Lazada, please tick below portion to receive any latest promotions with us. <br /><img src="https://lazada-cs--c.ap5.content.force.com/servlet/servlet.ImageServer?id=0157F0000002glc&oid=00D7F000000xllz" alt="Order" width="500" height="333">
+Why didn't I receive my free gifts?
+Our merchants decide on the maximum value of their gifts. In some cases, you may not receive your free gift as it is 'first come first serve' basis while stocks last.
+Can I use a voucher for my existing order?
+We are unable to add the voucher code for you within the system.Voucher codes must be entered when you are at Payment step during checkout.
+How do I earn BPoints from Lazada?
+Simply enter your 16 digits BCard number at the order confirmation page and click ÅgAdd PointsÅh.
+What is BCard and how does it work?
+BCard is a premier lifestyle and brand-focused reward programme which allows members to collect points and redeem them at participating outlets. You can earn 1 BPoint for every RM5.00 spent at www.lazada.com.my.
+Can I exchange my BPoints for cash?
+No, you can't. BPoints can only be used for redemption only.
+Can I redeem my BPoints at Lazada website?
+No, you can't. Redemption BPoints is currently available at BCARD website. Please visit www.bcard.com.my.
+I can't track my order on courier tracking page. What I need to do?
+If you are unable to track your package on the courier tracking page, your parcel might have just been handover to our respective courier partner. The tracking information with our logistic partners will be available within 24 hours after shipping.Please contact us at <a href="www.lazada.com.my/contact">www.lazada.com.my/contact</a> with your order number and the itemÅfs details if you are still unable to track your parcel by the following business days after item has been shipped out. We will assist you to resolve the issue with immediate action.
+I ordered multiple items, but why did I receive only one email and one tracking number?
+Your multiple items might come from different merchants/sellers. Thus, you will be receiving individual emails for different items depending on the current status of your item from respective merchants/sellers.
