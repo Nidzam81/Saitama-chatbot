@@ -24,7 +24,7 @@ english_bot.train(conv)
 
 @app.route("/")
 def home():
-    return render_template("index1.html")
+    return render_template("index.html")
 
 @app.route("/get")
 def get_bot_response():
