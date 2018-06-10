@@ -15,8 +15,8 @@ https://akade.my/
 Demo:  
 http://ijam1301.pythonanywhere.com/  
 
-Pitch video. 
-https://youtu.be/UrPOX3oPYeM
+Pitch video.   
+https://youtu.be/UrPOX3oPYeM. 
 
 Reference:  
 http://chatterbot.readthedocs.io/en/stable/  
